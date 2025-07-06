@@ -17,9 +17,3 @@ A simple real-time chess game built with vanilla JavaScript, Socket.IO. Two play
 - **Backend:** Node.js, Express, Socket.IO
 - **Chess Engine:** 
 
-## 📦 Installation
-
-### 1. Clone the Repository
-
-```bash
-cd realtime-chess
